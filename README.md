@@ -1,0 +1,1 @@
+This repository is for project that reproduce the result and derive equitions of article: “Tipping Points of Space Debris in Low Earth Orbit” (doi:10.5334/ijc.1275) <img width="468" height="12" alt="image" src="https://github.com/user-attachments/assets/c4d999b8-cadb-4625-9c2c-ee3d37039fde" />
