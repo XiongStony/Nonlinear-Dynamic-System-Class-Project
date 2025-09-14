@@ -7,7 +7,10 @@ Assumptions:
 The model in this paper constructs a nonlinear differential equation, where the annual increment of space debris is expressed as the first derivative of s with respect to t. One key assumption is that the collision frequency between particles is proportional to the square of the particle density in space. Additionally, the rates of debris being actively or passively removed and debris spontaneously generated due to events like explosions are both assumed to be proportional to the quantity of space debris. These factors are combined into a single parameter. Furthermore, it is assumed that future space launch missions will either approach a constant value or maintain equilibrium with the loss rate, allowing the input to be defined as a linear equation. When predicting the time for the occurrence of the Kessler Syndrome, it is defined as the point when the mathematical expectation of collisions caused by spacecraft launched within a year equals one.
 
 ![](Figures/SpaceDebris.png)  
-Burfication:  
+
+Bifurcation Exploring:  
 ![](Figures/fig3a.png) ![](Figures/fig3b.png)
+
 Kessler Syndrome Prediction under different condition:  
+
 ![](Figures/fig5a.png) ![](Figures/fig5b.png)
