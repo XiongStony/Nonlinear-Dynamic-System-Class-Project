@@ -8,7 +8,7 @@ The model in this paper constructs a nonlinear differential equation, where the 
 
 ![](Figures/SpaceDebris.png)  
 
-Bifurcation Exploring:  
+Bifurcation Exploring:  $\beta$
 ![](Figures/fig3a.png) ![](Figures/fig3b.png)
 
 Kessler Syndrome Prediction under different condition:  
